@@ -24,7 +24,13 @@ public class Console {
         if (scanner == null) {
             scanner = new Scanner(System.in);
         }
+<<<<<<< HEAD
 
         return scanner;
     }
+=======
+        return scanner;
+    }
+
+>>>>>>> upstream/kangrae-jo
 }
